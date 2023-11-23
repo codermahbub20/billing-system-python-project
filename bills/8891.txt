@@ -1,0 +1,18 @@
+	 Welcome Code With Mahbub  Mini Mall 
+ Bill Number : 8891
+ Customer Name : 
+ Phone Number : 
+ Customer Email: 
+=====================================
+ Products		QTY		Price
+===================================== Polo		1		1400
+ Polo		1		1400
+ Polo		1		1400
+ Polo		1		1400
+ Polo		1		1400
+
+=====================================
+ Sub Amount: 			Tk.8400.00
+ Tax Amount: 			Tk.70.00
+ Total Amount: 			Tk.8470.00
+=====================================

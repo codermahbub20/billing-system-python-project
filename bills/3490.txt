@@ -1,0 +1,17 @@
+	 Welcome Code With Mahbub  Mini Mall 
+ Bill Number : 3490
+ Customer Name : Mahbub Khandakar
+ Phone Number : 
+ Customer Email: kkyr8ijergufh
+=====================================
+ Products		QTY		Price
+===================================== Polo		1		1400
+ Polo		1		1400
+ Polo		1		1400
+ Polo		1		1400
+
+=====================================
+ Sub Amount: 			Tk.7000.00
+ Tax Amount: 			Tk.56.00
+ Total Amount: 			Tk.7056.00
+=====================================

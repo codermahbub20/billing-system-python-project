@@ -1,0 +1,20 @@
+	 Welcome Code With Mahbub  Mini Mall 
+ Bill Number : 1818
+ Customer Name : Mahbub Khandakar
+ Phone Number : 
+ Customer Email: mkrefat5@gmail.com
+=====================================
+ Products		QTY		Price
+=====================================
+ Mufti		1		1700
+ Mufti		1		1700
+ Mufti		1		1700
+ Mufti		1		1700
+ Mufti		1		1700
+ Mufti		1		1700
+
+=====================================
+ Sub Amount: 			Tk.10200.00
+ Tax Amount: 			Tk.85.00
+ Total Amount: 			Tk.10285.00
+=====================================
